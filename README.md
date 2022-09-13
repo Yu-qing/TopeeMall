@@ -27,4 +27,4 @@
 9. 下拉式選單 : https://kevintsengtw.blogspot.com/2012/07/aspnetmvc-3.html
 10. Auto increment : https://dotblogs.com.tw/IanChiu28/2017/05/21/142523
 11. Input & button : https://dotblogs.com.tw/IanChiu28/2017/05/21/142523
-12. 學長 : BooksShopppin
+12. 學長 : BooksShoppping
